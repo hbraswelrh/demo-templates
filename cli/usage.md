@@ -22,7 +22,7 @@
 
 **Click Option** = `@click.option`
 
-- In this example: `@click.option("--name",default=" " help=" ")`
+- In this example: `@click.option("--name",default=" ", help=" ")`
     
 - **(Name, Default, Help):**
 
